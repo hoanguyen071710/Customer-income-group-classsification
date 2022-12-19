@@ -1,6 +1,6 @@
 # Classify customer income group using Logistic Regression
 > CS50 Final Project
-#### Video Demo:  <URL HERE>
+#### Video Demo:  [Video](https://youtu.be/t7BxSfaPwX0)
 #### Description:
   In this notebook, we are going to predict whether a person's income is above 50k or below 50k using various features like age, education, and occupation.
   
