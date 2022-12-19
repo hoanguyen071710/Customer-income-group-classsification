@@ -1,2 +1,2 @@
 # CS50 Final Project
-Predict customer income group using Logistic Regression
+##Classify customer income group using Logistic Regression
